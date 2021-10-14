@@ -32,6 +32,7 @@ struct PersonalQuotesView: View {
 
 struct PersonalQuotesView_Previews: PreviewProvider {
     static var previews: some View {
+        // Dummy instance data for the sake of testing in canvas
         let viewModel = FamousQuotesModel.instance
         PersonalQuotesView(famousQuotes: viewModel.famousQuotes[0])
     }
