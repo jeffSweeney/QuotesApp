@@ -13,6 +13,7 @@ class FamousQuotesModel: ObservableObject {
     // Singleton instance
     static let instance = FamousQuotesModel()
     
+    // Private to force use of instance above
     private init() {
         famousQuotes = FetchAndDecode.fetchAndDecodeQuotes()
     }
