@@ -1,0 +1,59 @@
+[
+    {
+        "quoteBy": "Steve Jobs",
+        "image": "ambition",
+        "mainQuote": "Innovation distinguishes between a leader and a follower.",
+        "allQuotes": [
+            "Design is not just what it looks like and feels like. Design is how it works.",
+            "I'm as proud of what we don't do as I am of what we do.",
+            "Things don't have to change the world to be important.",
+            "Great things in business are never done by one person. They're done by a team of people."
+        ]
+    },
+    {
+        "quoteBy": "Nelson Mandela",
+        "image": "reflect",
+        "mainQuote": "It always seems impossible until it's done.",
+        "allQuotes": [
+            "Money won't create success, the freedom to make it will.",
+            "Resentment is like drinking poison and then hoping it will kill your enemies.",
+            "Real leaders must be ready to sacrifice all for the freedom of their people.",
+            "Education is the most powerful weapon which you can use to change the world.",
+            "I like friends who have independent minds because they tend to make you see problems from all angles."
+        ]
+    },
+    {
+        "quoteBy": "Bob Marley",
+        "image": "calm",
+        "mainQuote": "Love the life you live. Live the life you love.",
+        "allQuotes": [
+            "Don't gain the world and lose your soul, wisdom is better than silver or gold.",
+            "Herb is the healing of a nation, alcohol is the destruction.",
+            "None but ourselves can free our minds.",
+            "When one door is closed, don’t you know, another is open."
+        ]
+    },
+    {
+        "quoteBy": "Thomas Edison",
+        "image": "focus",
+        "mainQuote": "I have not failed. I've just found 10,000 ways that won't work.",
+        "allQuotes": [
+            "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+            "There is no substitute for hard work.",
+            "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
+            "Show me a thoroughly satisfied man and I will show you a failure.",
+            "If we did all the things we are capable of, we would literally astound ourselves."
+        ]
+    },
+    {
+        "quoteBy": "Wayne Gretzky",
+        "image": "reflect2",
+        "mainQuote": "You miss 100% of the shots you don't take.",
+        "allQuotes": [
+            "Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.",
+            "I skate to where the puck is going to be, not where it has been.",
+            "The only way a kid is going to practice is if it's total fun for him... and it was for me.",
+            "The biggest difference between L.A. and Edmonton was that instead of people looking at me I was looking at them."
+        ]
+    }
+]
