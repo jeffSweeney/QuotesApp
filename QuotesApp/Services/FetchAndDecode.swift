@@ -43,7 +43,7 @@ class FetchAndDecode {
                     print(error)
                 }
             } catch {
-                // Couldn't url the URL into a data object
+                // Couldn't turn the URL into a data object
                 print(error)
             }
         }
